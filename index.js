@@ -5,6 +5,8 @@ let welcomeMessage = "Welcome to Flatbook, !";
 
 let excitedWelcomeMessage = "WELCOME TO FLATBOOK, !";
 
-let shortGreeting = "Welcome, " + currentUser[0] + "!";
+let firstInitial = currentUser[0];
+
+let shortGreeting = "Welcome, " + firstInitial + "!";
 
 
